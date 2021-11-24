@@ -4,3 +4,15 @@
     color: brown;
     background-color: rgb(203, 248, 158);
 }
+#navegação li {
+    display: inline-block;
+    margin-left: 30px;
+    color: crimson;
+
+}
+#navegação li:hover {
+    color: darkmagenta;
+}
+#navegação li:active {
+    color: black;
+}
