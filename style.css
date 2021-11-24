@@ -24,3 +24,16 @@
     color: black;
     text-align: center;
 }
+body {
+    background-color: rgb(252, 215, 173);
+}
+#foto1 {
+    padding-top: 10px;
+    padding-left: 350px;
+}
+#foto2 {
+    width: 10px;
+    padding-top: 10px;
+    padding-left: 350px;
+}
+
