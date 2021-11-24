@@ -32,7 +32,6 @@ body {
     padding-left: 350px;
 }
 #foto2 {
-    width: 10px;
     padding-top: 10px;
     padding-left: 350px;
 }
@@ -40,13 +39,13 @@ body {
     background-color: rgb(203, 248, 158);
     text-align: center;
 }
-h4 {
+h3 {
     color: darkred;
 }
-h3 {
+h2 {
     color: rgb(155, 23, 23);
 }
-h2 {
+h1 {
     text-align: center;
     color: rgb(226, 67, 67);
 }
@@ -75,7 +74,7 @@ aside {
 footer {
     margin-top: 250px;
 }
-#section4 h4 {
+#section4 h3 {
     margin-left: 40px;
 }
 
