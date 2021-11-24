@@ -36,4 +36,18 @@ body {
     padding-top: 10px;
     padding-left: 350px;
 }
+#rodapé {
+    background-color: rgb(203, 248, 158);
+    text-align: center;
+}
+h4 {
+    color: darkred;
+}
+h3 {
+    color: rgb(155, 23, 23);
+}
+h2 {
+    text-align: center;
+    color: rgb(226, 67, 67);
+}
 
