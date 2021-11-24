@@ -16,3 +16,11 @@
 #navegação li:active {
     color: black;
 }
+#navegação {
+    border: 1px solid;
+    background-color: rgb(203, 248, 158);
+}
+#fato {
+    color: black;
+    text-align: center;
+}
